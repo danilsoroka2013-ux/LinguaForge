@@ -1,0 +1,15 @@
+# — Python —
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# — Сборка exe —
+build/
+dist/
+*.spec
+
+# — Локальное —
+train_log.txt
+*.log
